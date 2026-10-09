@@ -1,0 +1,58 @@
+{
+  "slug": "dreaming-day-events-planners-koratty",
+  "name": "Dreaming Day Events Planners",
+  "shortName": "Dreaming Day",
+  "descriptor": "Event Management",
+  "address": "Perumbi Road, Koratty, Kizhakkummuri, Keralam 680308",
+  "city": "Koratty",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680308",
+  "geo": {
+    "lat": 10.2629003,
+    "lng": 76.3648553
+  },
+  "mapsLink": "https://maps.google.com/?cid=11716307639750230863",
+  "phone": "+91 96332 15071",
+  "whatsapp": "919633215071",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 115,
+  "reviews": [
+    {
+      "name": "Jithin Haridas",
+      "rating": 5,
+      "quote": "We are absolutely delighted with the beautiful stage decor done for my sister’s wedding! The team did a fabulous job bringing our vision to life. Every detail was beautifully arranged, elegant, and perfectly suited to the occasion. Their creativity, professionalism, and attention to detail truly made the wedding stage stand out."
+    },
+    {
+      "name": "Rincy",
+      "rating": 5,
+      "quote": "My betrothal ceremony held on 25th October.Hall decoration done by Dreaming day Events Planners. Excellent work I never thought that my dream engagement day will be so beautiful. Every relatives loved the decorations and complemented the work. Thank you everyone for making my dream day very beautiful and memorable."
+    },
+    {
+      "name": "JOHNSON KA",
+      "rating": 5,
+      "quote": "With my personal experience i think they are providing service with resposibility,on time,quality and beautiful work at standard price Thankyou mr.viswan...."
+    },
+    {
+      "name": "bhadry Om",
+      "rating": 5,
+      "quote": "I am so happy and grateful for the service. You carried the event for the whole day so beautifully.Especially,everyone was impressed by the food.All total everybody including our cousins, friends etc hade a great opinion about the event..so, thank you so much from me and my family for making my day even more beautiful."
+    },
+    {
+      "name": "Adithya Devarajan",
+      "rating": 5,
+      "quote": "The work was amazing ..Made our day brighter and colorful. They have done all arrangements for the wedding which really saved us from the last moment rush and stress. Thanks for your team work"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://dreaming-day-events-planners-koratt.vercel.app"
+}
